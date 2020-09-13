@@ -1,5 +1,5 @@
 # cython_study
-## Install in Windows 10
+## 1. Install in Windows 10
 * 1. Cython 설치
 ```
   pip install cython
