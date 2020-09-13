@@ -5,4 +5,4 @@
   pip install cython
 ```
 * 2. C 컴파일러 설치 - MinGW설치(gcc의 windows버전이 포함되어있음)
- - <http://www.mingw.org/>
+  - <http://www.mingw.org/>
